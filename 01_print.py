@@ -1,6 +1,6 @@
 print("Hola, esto es el archivo 01")
 
-print("Hola soy Nicolas y tengo 12 años")
+print("Hola soy Ariana y tengo 12 años")
 
 # operaciones...
 
